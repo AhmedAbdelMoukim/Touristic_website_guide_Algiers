@@ -1,0 +1,134 @@
+[
+  {
+    "file": "front-de-mer-480.webp",
+    "width": 480,
+    "height": 360,
+    "bytes": 30882
+  },
+  {
+    "file": "front-de-mer-960.webp",
+    "width": 960,
+    "height": 720,
+    "bytes": 109128
+  },
+  {
+    "file": "front-de-mer-1600.webp",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 278596
+  },
+  {
+    "file": "front-de-mer-2200.webp",
+    "width": 2200,
+    "height": 1650,
+    "bytes": 459490
+  },
+  {
+    "file": "jardin-essai-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 60702
+  },
+  {
+    "file": "jardin-essai-960.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 262210
+  },
+  {
+    "file": "jardin-essai-1600.webp",
+    "width": 1600,
+    "height": 2133,
+    "bytes": 738940
+  },
+  {
+    "file": "monument-martyrs-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 35490
+  },
+  {
+    "file": "monument-martyrs-960.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 122426
+  },
+  {
+    "file": "monument-martyrs-1600.webp",
+    "width": 1600,
+    "height": 2133,
+    "bytes": 282542
+  },
+  {
+    "file": "notre-dame-afrique-480.webp",
+    "width": 480,
+    "height": 360,
+    "bytes": 49464
+  },
+  {
+    "file": "notre-dame-afrique-960.webp",
+    "width": 960,
+    "height": 721,
+    "bytes": 165588
+  },
+  {
+    "file": "notre-dame-afrique-1600.webp",
+    "width": 1600,
+    "height": 1201,
+    "bytes": 370392
+  },
+  {
+    "file": "centre-ville-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 67792
+  },
+  {
+    "file": "centre-ville-960.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 271230
+  },
+  {
+    "file": "centre-ville-1600.webp",
+    "width": 1600,
+    "height": 2133,
+    "bytes": 735544
+  },
+  {
+    "file": "alger-nuit-480.webp",
+    "width": 480,
+    "height": 360,
+    "bytes": 37056
+  },
+  {
+    "file": "alger-nuit-960.webp",
+    "width": 960,
+    "height": 720,
+    "bytes": 118070
+  },
+  {
+    "file": "alger-nuit-1600.webp",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 276334
+  },
+  {
+    "file": "place-audin-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 75354
+  },
+  {
+    "file": "place-audin-960.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 305590
+  },
+  {
+    "file": "place-audin-1600.webp",
+    "width": 1600,
+    "height": 2133,
+    "bytes": 807640
+  }
+]
